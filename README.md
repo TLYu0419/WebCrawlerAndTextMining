@@ -1,2 +1,2 @@
 # WebCrawlerAndTextMining
- Web Crawler And Text Mining in NDHU
+ Web Crawler And Text Mining Workshop in NDHU
